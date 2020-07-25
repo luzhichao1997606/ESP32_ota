@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//main/Ethernet/Ethernet_app.c=UTF-8
+encoding//main/MQTT/MQTT_Handler.c=UTF-8
+encoding//main/MQTT/MQTT_Handler.h=UTF-8
+encoding//main/NRF24L01/NRF24L01.c=UTF-8
+encoding//main/NRF24L01/NRF24L01.h=UTF-8
+encoding//main/OLED/oled_hw_spi.c=UTF-8
+encoding//main/OLED/oled_hw_spi.h=UTF-8
+encoding//main/SPI/HW_SPI_Common.c=UTF-8
+encoding//main/SPI/HW_SPI_Common.h=UTF-8
+encoding//main/Storage/Storage_nvs.c=UTF-8
+encoding//main/Storage/Storage_nvs.h=UTF-8
+encoding//main/main.c=UTF-8
